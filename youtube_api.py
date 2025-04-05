@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
 
 # Your API key (ensure this is correct)
-api_key = 'AIzaSyAouzKmqcH5U9FkWptBX7qCuTP-sIG9Nc0'
+api_key = 'XYZ'
 
 # Correct video ID (exclude any part after & symbol)
 video_id = 's86-Z-CbaHA'  # Corrected video ID
